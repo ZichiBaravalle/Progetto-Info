@@ -1,0 +1,10 @@
+main > article{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+div{
+    margin-right: 100px;
+    height: 510px;
+    width: 10500px;
+    overflow: auto;
+}
