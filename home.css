@@ -1,10 +1,28 @@
-main > article{
-    margin-right: 100px;
-    margin-left: 100px;
-}
 div{
+    margin-right: 50px;
+    /*height: 510px;*/
+    width: 600px;
+    overflow: auto;
+}
+section{
     margin-right: 100px;
-    height: 510px;
-    width: 10500px;
+    margin-left: 50px;
+    /*height: 520px;*/
+    width: 800px;
+    overflow: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid white;
+    text-align: center;
+}
+main{
+    height: 520px;
+    width: 100%;
     overflow: auto;
 }
